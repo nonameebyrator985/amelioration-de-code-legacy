@@ -6,7 +6,7 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    // Ajoutez les dépendances nécessaires ici
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "license": "MIT"
